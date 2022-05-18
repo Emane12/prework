@@ -1,0 +1,40 @@
+#div1{
+	background-color: burlywood;
+}
+#div2{
+	background-color: blanchedalmond;
+}
+#div3{
+	background-color: blue;
+}
+#div4{
+	background-color: antiquewhite;
+}
+
+#div1, #div2, #div3, #div4 {
+	border: static;
+}
+
+h1{
+	color: red;
+}
+h3{
+	color: red;
+}
+h4{
+	color: red;
+}
+#favoriteList{
+	color: green;
+
+}
+form{
+	padding: 15px;
+	font-weight: 900px;
+}
+input[type=button]: hover {
+	border: solid;
+	color: black;
+	padding: 5px;
+
+}
